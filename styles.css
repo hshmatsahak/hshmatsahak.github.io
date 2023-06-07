@@ -39,6 +39,13 @@ h1 {
         /* border: "1px solid red"; */
         padding: 10px;
     }
+
+    .headshot {
+        float: right; 
+        width: 25%; 
+        height: auto; 
+        margin: 10px;
+    }
 }
     
 /* on Mobile */
@@ -69,6 +76,12 @@ h1 {
         align-items: center; 
         /* border: "1px solid red"; */
         padding: 10px;
+    }
+
+    .headshot {
+        width: 100%; 
+        height: auto; 
+        margin: 10px;
     }
 }
 
